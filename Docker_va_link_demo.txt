@@ -1,0 +1,5 @@
+------------------------------CODE_TERMINAL_DOCKER---------------------------------------------------------------------------
+docker pull hungldvntts/counterfit-iot:latest
+docker run -it -p 5000:5000 hungldvntts/counterfit-iot
+--------------------LINK_THINGBOARD_DEMO----------------------------------------------------------------------------------
+Dashboards: https://demo.thingsboard.io/dashboard/d273a380-63e1-11ef-9229-f3aa570680fb?publicId=4c420ed0-63b6-11ef-9229-f3aa570680fb
